@@ -1,5 +1,5 @@
 {
-    "$schema": "https://github.com/F5Networks/f5-appsvcs-extension/blob/main/schema/3.46.0/as3-schema.json",
+    "$schema": "https://raw.githubusercontent.com/F5Networks/f5-appsvcs-extension/main/schema/latest/as3-schema.json",
     "class": "AS3",
     "action": "deploy",
     "persist": true,
